@@ -1,0 +1,27 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Basics and Background}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Firewall}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Switch}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Modems}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Network Protocols}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Bandwidth}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{VPN}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Network bridge}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{Repeater}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.9}{Router}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{Network Design}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Star Topology}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Bus Topology}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Ring Topology}{section.3}% 15
+\BOOKMARK [1][-]{section.4}{Wired and Wireless Networks}{}% 16
+\BOOKMARK [1][-]{section.5}{types of area network}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{LAN}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{MAN}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.3}{WAN}{section.5}% 20
+\BOOKMARK [3][-]{subsubsection.5.3.1}{WLAN}{subsection.5.3}% 21
+\BOOKMARK [1][-]{section.6}{Routing}{}% 22
+\BOOKMARK [2][-]{subsection.6.1}{static routing}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.2}{Default Routing}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.3}{Dynamic Routing}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.4}{Routing Table}{section.6}% 26
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 27
